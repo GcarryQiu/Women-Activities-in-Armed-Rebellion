@@ -1,0 +1,373 @@
+NSAdyad_id,sidea,sideb,country_primary,noncombat_logistics,lead,wwing,coalition
+322,Government of Myanmar (Burma),ABSDF,Myanmar (Burma),1,1,1,0
+309,Government of India,ABSU,India,1,1,1,0
+153,Government of Uganda,ADF,Uganda,1,1,0,0
+39,Government of DR Congo (Zaire),AFDL,DR Congo (Zaire),1,0,0,0
+131,Government of Sierra Leone,AFRC,Sierra Leone,1,0,0,0
+446,Government of Nigeria,Ahlul Sunnah wal Jamaa,Nigeria,0,0,0,0
+283,Government of Ethiopia,AIAI,Ethiopia,0,0,0,0
+1,Government of Algeria,AIS/FIS,Algeria,0,0,0,0
+241,Government of Egypt,al-Gama'a al-Islamiyya,Egypt,0,0,0,0
+442,Government of Iraq,al-Mahdi Army,Iraq,1,0,1,0
+12582,Government of Mali,al-Murabitun,Mali,0,0,0,0
+360,Government of United States of America,al-Qaida,United States of America,1,1,1,0
+770,Government of Somalia,al-Shabaab,Somalia,1,1,1,0
+51,Government of Ethiopia,ALF,Ethiopia,0,0,0,0
+128,Government of Rwanda,ALiR,Rwanda,1,1,0,0
+795,Government of Myanmar (Burma),ALP,Myanmar (Burma),1,1,0,0
+724,Government of Lebanon,Amal Movement,Lebanon,1,1,1,1
+767,Government of Chad,AN,Chad,0,0,0,0
+558,Government of South Africa,ANC,South Africa,1,1,1,0
+801,Government of Myanmar (Burma),ANLP,Myanmar (Burma),0,0,0,0
+443,Government of Iraq,Ansar al-Islam,Iraq,1,0,0,0
+877,Government of Egypt,Ansar Bayt al-Maqdis,Egypt,0,0,0,0
+835,Government of Mali,Ansar Dine,Mali,0,0,0,0
+10855,Government of Yemen (North Yemen),Ansarallah,Yemen (North Yemen),1,1,1,0
+12380,Government of Central African Republic,anti-Balaka,Central African Republic,1,0,0,0
+858,Government of DR Congo (Zaire),APCLS,DR Congo (Zaire),1,0,0,0
+546,Government of Iran,APCO,Iran,0,0,0,0
+373,Government of Russia (Soviet Union),APF/PFA,Russia (Soviet Union),0,0,1,0
+784,Government of Yemen (North Yemen),AQAP,Yemen (North Yemen),0,0,0,0
+4,Government of Algeria,AQIM,Algeria,0,0,0,0
+52,Government of Ethiopia,ARDUF,Ethiopia,0,0,0,0
+632,Government of Somalia,ARS/UIC,Somalia,0,0,0,0
+249,Government of Philippines,ASG,Philippines,1,0,0,0
+650,Government of Mali,ATNMC,Mali,0,0,0,0
+262,Government of India,ATTF,India,1,0,0,0
+294,Government of Bosnia-Herzegovina,Autonomous Province of Western Bosnia,Bosnia-Herzegovina,0,0,0,0
+638,Government of Pakistan,Baloch Ittehad,Pakistan,0,0,0,0
+778,Government of Venezuela,Bandera Roja,Venezuela,1,0,0,0
+651,Government of DR Congo (Zaire),BDK,DR Congo (Zaire),1,0,0,0
+834,Government of Philippines,BIFM,Philippines,0,0,0,0
+639,Government of Pakistan,BLA,Pakistan,0,0,0,0
+544,Government of Pakistan,BLF,Pakistan,0,0,0,0
+326,Government of Myanmar (Burma),BMA,Myanmar (Burma),0,0,0,0
+793,Government of Nigeria,Boko Haram,Nigeria,1,0,1,0
+337,Government of Papua New Guinea,BRA,Papua New Guinea,1,1,1,0
+774,Government of Pakistan,BRA,Pakistan,0,1,1,0
+586,Government of Malaysia,CCO,Malaysia,1,0,0,0
+664,Government of Chad,CDR,Chad,0,0,0,0
+348,Government of Russia (Soviet Union),Chechen Republic of Ichkeria,Russia (Soviet Union),1,1,0,0
+836,Government of Mali,CMA,Mali,1,1,0,0
+14,Government of Burundi,CNDD-FDD,Burundi,1,1,1,0
+646,Government of DR Congo (Zaire),CNDP,DR Congo (Zaire),0,0,0,0
+679,Government of DR Congo (Zaire),CNL,DR Congo (Zaire),0,0,0,0
+22,Government of Chad,CNR,Chad,0,0,0,0
+189,Government of Congo,Cobras,Congo,0,0,0,0
+37,Government of Congo,Cocoyes,Congo,0,0,0,0
+231,Government of Nicaragua,Contras/FDN,Nicaragua,1,1,0,0
+802,Government of Myanmar (Burma),CPA,Myanmar (Burma),0,0,0,0
+305,Government of Myanmar (Burma),CPB,Myanmar (Burma),1,1,1,0
+677,Government of Myanmar (Burma),CPB- RF,Myanmar (Burma),0,0,0,0
+451,Government of India,CPI-Maoist,India,1,1,1,0
+690,Government of India,CPI-ML,India,1,1,1,0
+11932,Government of India,CPI-ML-J,India,0,1,0,0
+782,Government of Central African Republic,CPJP,Central African Republic,0,0,0,0
+349,Government of Nepal,CPN-M,Nepal,1,1,1,0
+217,Government of Philippines,CPP/NPA,Philippines,1,1,1,0
+599,Government of Thailand,CPT,Thailand,1,1,0,0
+111,Government of Niger,CRA,Niger,0,0,0,0
+293,Government of Bosnia-Herzegovina,Croatian Republic of Bosnia-Herzegovina,Bosnia-Herzegovina,0,0,0,0
+21,Government of Chad,CSNPD,Chad,0,0,0,0
+14150,Government of Sudan,Darfur Joint Resistance Forces,Sudan,0,0,0,0
+375,Government of Yemen (North Yemen),Democratic Republic of Yemen,Yemen (North Yemen),0,0,0,0
+330,Government of Turkey,DHKP-C/Devrimci Sol,Turkey,1,1,1,0
+805,Government of Myanmar (Burma),DKBA5,Myanmar (Burma),0,0,0,0
+14124,Government of Ukraine,Donetsk People's Republic,Ukraine,1,1,1,0
+754,Government of Ethiopia,EDU,Ethiopia,0,0,0,0
+625,Government of Guatemala,EGP,Guatemala,1,1,0,1
+435,Government of Eritrea,EIJM - AS,Eritrea,0,0,0,0
+667,Government of Ethiopia,ELF,Ethiopia,1,1,1,0
+342,Government of Colombia,ELN,Colombia,1,1,1,0
+464,Government of Bolivia,ELN,Bolivia,1,1,0,0
+500,Government of Peru,ELN,Peru,0,0,0,0
+47,Government of Ethiopia,EPDM,Ethiopia,0,0,0,0
+343,Government of Colombia,EPL,Colombia,1,1,0,0
+53,Government of Ethiopia,EPLF,Ethiopia,1,1,1,0
+299,Government of Mexico,EPR,Mexico,0,1,0,0
+48,Government of Ethiopia,EPRDF,Ethiopia,1,1,1,0
+687,Government of Sri Lanka,EPRLF,Sri Lanka,1,0,1,0
+50,Government of Ethiopia,EPRP,Ethiopia,1,1,1,0
+510,Government of El Salvador,ERP,El Salvador,1,1,1,1
+594,Government of Argentina,ERP,Argentina,1,1,1,0
+366,Government of Spain,ETA,Spain,1,1,0,0
+830,Government of China,ETIM/TIP,China,1,0,0,0
+230,Government of Mexico,EZLN,Mexico,1,1,1,0
+660,Government of Chad,FAN,Chad,NA,NA,NA,0
+661,Government of Chad,FAP,Chad,0,0,0,0
+624,Government of Guatemala,FAR,Guatemala,1,1,0,1
+237,Government of Colombia,FARC,Colombia,1,1,0,0
+26,Government of Chad,FARF,Chad,0,0,0,0
+662,Government of Chad,FAT,Chad,1,1,1,0
+377,Government of Israel,Fatah,"Palestine, Israel",1,1,1,1
+828,Government of Rwanda,FDLR,Rwanda,1,1,0,0
+113,Government of Niger,FDR,Niger,0,0,0,0
+820,Government of Ivory Coast,FDSI-CI,Ivory Coast,1,0,0,0
+97,Government of Mali,FIAA,Mali,0,0,0,0
+658,Government of Chad,First Liberation Army,Chad,0,0,0,0
+761,Government of Niger,FLAA,Niger,0,0,0,0
+190,Government of Angola,FLEC-FAC,Angola,1,0,0,0
+191,Government of Angola,FLEC-R,Angola,0,0,0,0
+681,Government of DR Congo (Zaire),FLNC,DR Congo (Zaire),1,0,1,0
+686,Government of United Kingdom,FLOSY,United Kingdom,1,0,0,0
+440,Government of Haiti,FLRN,Haiti,0,0,0,0
+225,Government of El Salvador,FMLN,El Salvador,1,1,1,0
+439,Government of Ivory Coast,FN/FRCI,Ivory Coast,1,0,0,0
+568,Government of Portugal,FNLA,Portugal,0,0,0,0
+24,Government of Chad,FNT,Chad,0,0,0,0
+508,Government of El Salvador,FPL,El Salvador,1,1,1,1
+127,Government of Rwanda,FPR,Rwanda,1,1,1,0
+685,Government of Portugal,Frelimo,Portugal,1,1,1,0
+344,Government of Indonesia,Fretilin,Indonesia,1,1,1,0
+13,Government of Burundi,Frolina,Burundi,0,0,0,0
+656,Government of Chad,Frolinat,Chad,1,1,1,0
+701,Government of Uganda,Fronasa,Uganda,0,1,1,0
+43,Government of Djibouti,FRUD,Djibouti,NA,NA,NA,0
+44,Government of Djibouti,FRUD-AD,Djibouti,0,0,0,0
+567,Government of Nicaragua,FSLN,Nicaragua,1,1,1,0
+455,Government of Chad,FUCD,Chad,1,1,1,0
+703,Government of Uganda,FUNA,Uganda,0,0,0,0
+379,Government of Cambodia (Kampuchea),FUNCINPEC,Cambodia (Kampuchea),0,0,0,0
+347,Government of Indonesia,GAM,Indonesia,1,1,1,0
+3,Government of Algeria,GIA,Algeria,0,0,0,0
+842,Government of India,GNLA,India,1,0,0,0
+314,Government of Myanmar (Burma),God's Army,Myanmar (Burma),0,0,0,0
+663,Government of Chad,GUNT,Chad,0,0,0,0
+381,Government of Israel,Hamas,"Palestine, Israel",1,1,1,0
+731,Government of Afghanistan,Harakat-i Inqilab-i Islami-yi Afghanistan,Afghanistan,1,1,0,0
+737,Government of Afghanistan,Harakat-i Islami-yi Afghanistan,Afghanistan,0,0,0,0
+643,Government of Israel,Hezbollah,"Palestine, Israel",1,1,1,0
+412,Government of Afghanistan,Hizb-i Islami-yi Afghanistan,Afghanistan,1,1,0,0
+760,Government of Afghanistan,Hizb-i Islami-yi Afghanistan - Khalis faction,Afghanistan,1,1,0,0
+413,Government of Afghanistan,Hizb-i Wahdat,Afghanistan,1,1,1,0
+804,Government of Somalia,Hizbul Islam,Somalia,0,0,0,0
+149,Government of Uganda,HSM,Uganda,1,1,1,0
+811,Government of Ethiopia,IGLF,Ethiopia,0,0,0,0
+363,Government of Uzbekistan,IMU,Uzbekistan,1,0,0,0
+94,Government of Liberia,INPFL,Liberia,0,0,1,0
+448,Government of Iraq,IS,Iraq,1,1,1,0
+521,Government of Sudan,Islamic Charter Front,Sudan,0,0,0,0
+20,Government of Chad,Islamic Legion,Chad,0,0,0,0
+735,Government of Afghanistan,Ittihad-i Islami Bara-yi Azadi-yi Afghanistan,Afghanistan,1,1,0,0
+733,Government of Afghanistan,Jabha-yi Nijat-i Milli-yi Afghanistan,Afghanistan,1,1,0,0
+411,Government of Afghanistan,Jam'iyyat-i Islami-yi Afghanistan,Afghanistan,1,1,0,0
+219,Government of Trinidad and Tobago,Jamaat al-Muslimeen,Trinidad and Tobago,0,0,0,0
+14227,Government of Pakistan,Jama?t-ul-Ahrar,Pakistan,0,0,0,0
+434,Government of Sudan,JEM,Sudan,0,1,0,1
+444,Government of Uzbekistan,JIG,Uzbekistan,1,0,0,0
+640,Government of Iran,Jondullah,Iran,0,0,0,0
+548,Government of Saudi Arabia,JSM,Saudi Arabia,0,0,0,0
+223,Government of Bangladesh,JSS/SB,Bangladesh,1,1,1,0
+422,Government of Afghanistan,Junbish-i Milli-yi Islami,Afghanistan,0,0,0,0
+256,Government of Sri Lanka,JVP,Sri Lanka,1,1,1,0
+132,Government of Sierra Leone,Kamajors,Sierra Leone,1,1,0,0
+355,Government of India,Kashmir insurgents,India,1,1,1,0
+856,Government of DR Congo (Zaire),Kata Katanga,DR Congo (Zaire),0,0,0,0
+764,Government of India,KCP,India,1,1,1,0
+279,Government of Iraq,KDP,Iraq,1,1,1,0
+653,Government of Iraq,KDP-QM,Iraq,0,0,0,0
+260,Government of Iran,KDPI,Iran,1,1,1,0
+700,Government of Uganda,Kikosi Maalum,Uganda,0,0,0,0
+304,Government of Myanmar (Burma),KIO,Myanmar (Burma),1,1,1,0
+788,Government of India,KNF,India,0,0,0,0
+311,Government of Myanmar (Burma),KNPP,Myanmar (Burma),1,1,0,0
+306,Government of Myanmar (Burma),KNU,Myanmar (Burma),1,1,1,0
+553,Government of Cambodia (Kampuchea),KNUFNS,Cambodia (Kampuchea),0,0,0,0
+378,Government of Cambodia (Kampuchea),KPNLF,Cambodia (Kampuchea),1,1,1,0
+364,Government of Cambodia (Kampuchea),KR,Cambodia (Kampuchea),1,1,1,0
+723,Government of Lebanon,LAA,Lebanon,0,0,0,0
+844,Government of Pakistan,Lashkar-e-Islam,Pakistan,0,0,0,0
+797,Government of Myanmar (Burma),LNUP,Myanmar (Burma),0,0,0,0
+708,Government of Uganda,Lord's Army,Uganda,0,0,0,0
+14184,Government of Ukraine,LPR,Ukraine,1,0,0,0
+151,Government of Uganda,LRA,Uganda,1,1,1,0
+382,Government of Laos,LRM,Laos,0,0,0,0
+243,Government of Sri Lanka,LTTE,Sri Lanka,1,1,1,0
+95,Government of Liberia,LURD,Liberia,1,1,1,0
+495,Government of Colombia,M-19,Colombia,1,1,0,0
+831,Government of DR Congo (Zaire),M23,DR Congo (Zaire),1,0,1,0
+732,Government of Afghanistan,Mahaz-i Milli-yi Islami-yi Afghanistan,Afghanistan,1,1,0,0
+14085,Government of Ukraine,Maidan,Ukraine,1,1,1,0
+406,Government of India,MCC,India,0,1,1,0
+585,Government of Malaysia,MCP,Malaysia,1,1,1,0
+25,Government of Chad,MDD,Chad,0,0,0,0
+27,Government of Chad,MDJT,Chad,0,0,0,0
+246,Government of Iran,MEK,Iran,1,1,1,0
+129,Government of Senegal,MFDC,Senegal,1,0,0,0
+242,Government of Philippines,MILF,Philippines,1,1,1,0
+507,Government of Philippines,MIM,Philippines,0,0,0,0
+499,Government of Peru,MIR,Peru,1,0,0,0
+245,Government of Ivory Coast,MJP,Ivory Coast,0,0,0,1
+457,Government of Turkey,MKP,Turkey,1,1,1,0
+41,Government of DR Congo (Zaire),MLC,DR Congo (Zaire),0,0,0,0
+491,Government of Uruguay,MLN/Tupamaros,Uruguay,1,1,0,0
+798,Government of Myanmar (Burma),MNDAA,Myanmar (Burma),0,0,0,0
+505,Government of India,MNF,India,1,0,1,0
+749,Government of Niger,MNJ,Niger,0,0,0,0
+247,Government of Philippines,MNLF,Philippines,1,1,1,0
+647,Government of Philippines,MNLF-HM,Philippines,0,0,0,0
+252,Government of Philippines,MNLF-NM,Philippines,0,0,0,0
+352,Government of Liberia,MODEL,Liberia,0,0,0,0
+593,Government of Argentina,Montoneros,Argentina,1,1,1,0
+19,Government of Chad,MOSANAT,Chad,0,0,0,0
+96,Government of Mali,MPA,Mali,0,0,0,0
+35,Government of Comoros,MPA/Republic of Anjouan,Comoros,0,0,0,0
+89,Government of Ivory Coast,MPCI,Ivory Coast,0,0,0,1
+91,Government of Ivory Coast,MPIGO,Ivory Coast,0,0,0,1
+738,Government of Portugal,MPLA,Portugal,1,1,1,0
+23,Government of Chad,MPS,Chad,0,0,0,0
+340,Government of Pakistan,MQM,Pakistan,1,1,1,0
+319,Government of Peru,MRTA,Peru,1,1,0,0
+308,Government of Myanmar (Burma),MTA,Myanmar (Burma),1,0,1,0
+471,Government of Togo,MTD,Togo,0,0,0,0
+NA,Government of Mali,MUJAO,Mali,1,0,0,0
+542,Government of Pakistan,Mukti Bahini,Pakistan,1,0,1,0
+519,Government of Syria,Muslim Brotherhood,Syria,1,1,1,0
+617,Government of Yemen (North Yemen),NDF,Yemen (North Yemen),0,0,0,0
+313,Government of India,NDFB,India,1,1,0,0
+785,Government of India,NDFB - RD,India,0,0,0,0
+14102,Government of India,NDFB- S,India,1,1,0,0
+473,Government of Nigeria,NDPVF,Nigeria,1,1,0,0
+36,Government of Congo,Ninjas,Congo,0,0,0,0
+614,Government of South Vietnam,NLF,Vietnam (South Vietnam),1,1,1,0
+269,Government of India,NLFT,India,1,1,1,0
+11299,Government of India,NLFT-B,India,0,0,0,0
+310,Government of Myanmar (Burma),NMSP,Myanmar (Burma),1,1,1,0
+711,Government of India,NNC,India,1,1,1,0
+93,Government of Liberia,NPFL,Liberia,1,1,1,0
+574,Government of Uganda,NRA,Uganda,1,1,1,0
+630,Government of Sudan,NRF,Sudan,0,0,0,0
+286,Government of India,NSCN-IM,India,1,1,1,0
+853,Government of Myanmar (Burma),NSCN-K,Myanmar (Burma),1,0,0,0
+722,Government of Lebanon,NSF/LNM,Lebanon,1,1,1,1
+38,Government of Congo,Ntsiloulous,Congo,0,0,0,0
+725,Government of Lebanon,NUF,Lebanon,1,1,1,0
+792,Government of Ethiopia,OLF,Ethiopia,1,1,1,0
+54,Government of Ethiopia,ONLF,Ethiopia,1,1,1,0
+441,Government of Haiti,OP Lavalas (Chim?res),Haiti,0,0,0,0
+498,Government of Indonesia,OPM,Indonesia,1,1,1,0
+627,Government of Guatemala,ORPA,Guatemala,1,1,0,1
+675,Government of Portugal,PAIGC,Portugal,1,1,1,0
+15,Government of Burundi,Palipehutu-FNL,Burundi,1,0,1,0
+11377,Government of DR Congo (Zaire),PARC-FAAL,DR Congo (Zaire),0,0,0,0
+472,Government of Thailand,Patani insurgents,Thailand,1,1,1,0
+734,Government of Laos,Pathet Lao/LPLA,Laos,1,1,1,0
+838,Government of Bangladesh,PBCP,Bangladesh,0,0,0,0
+839,Government of Bangladesh,PBCP- J,Bangladesh,1,1,1,0
+727,Government of Afghanistan,PDPA,Afghanistan,0,1,1,0
+712,Government of Zimbabwe (Rhodesia),PF,Zimbabwe (Rhodesia),1,1,1,0
+561,Government of Oman,PFLO,Oman,1,1,1,0
+419,Government of Israel,PFLP,"Palestine, Israel",1,1,1,1
+428,Government of Israel,PFLP-GC,"Palestine, Israel",0,0,0,1
+807,Government of Chad,PFNR,Chad,0,0,0,0
+848,Government of Tajikistan,PFT,Tajikistan,0,0,0,0
+380,Government of Israel,PIJ,"Palestine, Israel",1,0,1,0
+216,Government of United Kingdom,PIRA,United Kingdom,1,1,1,0
+459,Government of Iran,PJAK,Iran,1,1,1,0
+333,Government of Turkey,PKK,Turkey,1,1,1,0
+325,Government of India,PLA,India,1,1,1,0
+781,Government of Israel,PLO,"Palestine, Israel",1,1,1,0
+367,Government of Moldova,PMR,Moldova,0,1,0,0
+98,Government of Morocco,POLISARIO,"Western Sahara, Morocco",1,1,1,0
+629,Government of Israel,PRC,"Palestine, Israel",1,1,1,0
+766,Government of India,PREPAK,India,1,0,0,0
+14273,Government of Myanmar (Burma),PSLF/TNLF/A,Myanmar (Burma),1,1,1,0
+285,Government of Iraq,PUK,Iraq,1,1,1,0
+772,Government of India,PULF,India,1,1,0,0
+405,Government of India,PWG,India,1,1,1,0
+13821,Government of Syria,PYD,Syria,1,1,1,0
+633,Government of Chad,RAFD,Chad,0,0,0,0
+40,Government of DR Congo (Zaire),RCD,DR Congo (Zaire),1,1,0,0
+307,Government of Myanmar (Burma),RCSS/SSA-South,Myanmar (Burma),1,0,0,0
+780,Government of Israel,Rejectionist Front,"Palestine, Israel",1,1,1,0
+99,Government of Mozambique,Renamo,Mozambique,1,1,1,0
+259,Government of Georgia,Republic of Abkhazia,Georgia,1,1,1,0
+528,Government of Nigeria,Republic of Biafra,Nigeria,1,0,1,0
+272,Government of Serbia (Yugoslavia),Republic of Croatia,Croatia,1,0,0,0
+361,Government of Azerbaijan,Republic of Nagorno-Karabakh,Azerbaijan,1,1,1,0
+281,Government of Serbia (Yugoslavia),Republic of Slovenia,Slovenia,0,1,0,0
+297,Government of Georgia,Republic of South Ossetia,Georgia,1,1,1,0
+815,Government of Sudan,Republic of South Sudan,Sudan,1,1,1,0
+551,Government of Tunisia,Résistance Armée Tunisienne,Tunisia,0,0,0,0
+18,Government of Chad,Revolutionary Forces of 1 April,Chad,0,0,0,0
+57,Government of Guinea,RFDG,Guinea,0,0,0,0
+248,Government of United Kingdom,RIRA,United Kingdom,1,1,0,0
+578,Government of Iraq,RJF,Iraq,0,0,0,0
+616,Government of Yemen (North Yemen),Royalists,Yemen (North Yemen),0,0,0,0
+794,Government of Myanmar (Burma),RPF,Myanmar (Burma),0,0,0,0
+312,Government of Myanmar (Burma),RSO,Myanmar (Burma),0,0,0,0
+130,Government of Sierra Leone,RUF,Sierra Leone,1,1,1,0
+796,Government of Ethiopia,SALF,Ethiopia,0,0,0,0
+14134,Government of Sudan,SARC,Sudan,0,0,0,0
+298,Government of Iraq,SCIRI,Iraq,0,0,0,0
+832,Government of Central African Republic,Seleka,Central African Republic,1,0,0,0
+292,Government of Bosnia-Herzegovina,Serbian Republic of Bosnia-Herzegovina,Bosnia-Herzegovina,1,1,0,0
+303,Government of Croatia,Serbian Republic of Krajina,Croatia,1,0,0,0
+235,Government of Peru,Shining Path,Peru,1,1,1,0
+865,Government of Mali,Signed-in-Blood Battalion,Mali,0,0,0,0
+387,Government of India,Sikh insurgents,India,1,1,1,0
+559,Government of Suriname,SLA,Suriname,0,0,0,0
+791,Government of Ethiopia,SLM,Ethiopia,0,0,0,0
+433,Government of Sudan,SLM/A,Sudan,1,1,1,0
+631,Government of Sudan,SLM/A-MM,Sudan,0,0,0,1
+648,Government of Sudan,SLM/A-Unity,Sudan,0,0,0,0
+207,Government of Somalia,SNM,Somalia,1,0,0,0
+641,Government of Sudan,SPLM/A,Sudan,1,1,1,1
+859,Government of South Sudan,SPLM/A- In Opposition,South Sudan,1,1,1,0
+812,Government of Sudan,SPLM/A- North,Sudan,1,0,1,1
+208,Government of Somalia,SPM,Somalia,0,0,0,0
+833,Government of Sudan,SRF,Sudan,1,1,1,0
+212,Government of Somalia,SRRC,Somalia,0,0,0,0
+746,Government of Myanmar (Burma),SSA,Myanmar (Burma),0,1,0,0
+209,Government of Somalia,SSDF,Somalia,0,0,0,0
+NA,Government of South Sudan,SSDM/A,South Sudan,0,0,0,0
+860,Government of South Sudan,SSDM/A-Cobra,South Sudan,0,0,0,0
+676,Government of Sudan,SSLM,Sudan,0,0,0,0
+NA,Government of South Sudan,SSLM/A,South Sudan,0,0,0,0
+748,Government of Myanmar (Burma),SSNLO,Myanmar (Burma),0,0,0,0
+826,Government of Myanmar (Burma),SSPP/SSA-N,Myanmar (Burma),0,0,0,0
+750,Government of Myanmar (Burma),SSRA,Myanmar (Burma),0,0,0,0
+861,Government of Malaysia,Sultanate of Sulu,Malaysia,0,0,0,0
+747,Government of Myanmar (Burma),SURA,Myanmar (Burma),1,0,1,0
+516,Government of South Africa,SWAPO,South Africa,1,1,1,0
+867,Government of Syria,"Syrian insurgents (Free Syrian Army, FSA)",Syria,1,0,1,0
+867.2,Government of Syria,"Syrian insurgents (Jahat al-Nusra, affiliates)",Syria,1,1,1,0
+2,Government of Algeria,Takfir wa'l Hijra,Algeria,0,0,0,0
+327,Government of Afghanistan,Taleban,Afghanistan,1,0,0,0
+526,Government of Sri Lanka,TELO,Sri Lanka,0,0,0,0
+515,Government of India,TNV,India,0,0,0,0
+46,Government of Ethiopia,TPLF,Ethiopia,1,1,1,1
+751,Government of Myanmar (Burma),TRC,Myanmar (Burma),0,0,0,0
+768,Government of Pakistan,TTP,Pakistan,1,0,0,0
+843,Government of Pakistan,TTP-TA,Pakistan,0,0,0,0
+295,Government of Serbia (Yugoslavia),UCK/KLA,Kosovo,1,1,0,0
+341,"Government of Macedonia, FYR",UCK/NLA,"Macedonia, FYR",1,0,0,0
+634,Government of Chad,UFDD,Chad,0,0,0,0
+628,Government of Central African Republic,UFDR,Central African Republic,1,0,0,0
+575,Government of Uganda,UFM,Uganda,0,0,0,0
+783,Government of Chad,UFR,Chad,0,0,0,0
+762,Government of Niger,UFRA,Niger,0,0,0,0
+423,Government of Afghanistan,UIFSA/Northern Alliance,Afghanistan,0,1,0,0
+296,Government of India,ULFA,India,1,1,0,0
+7,Government of Angola,UNITA,Angola,1,1,1,0
+14210,Government of Ukraine,United Armed Forces of Novorossiya,Ukraine,1,1,0,0
+336,Government of India,UNLF,India,1,1,1,0
+556,Government of Uganda,UNLF,Uganda,0,0,0,0
+704,Government of Uganda,UNRF,Uganda,0,0,0,0
+431,Government of Uganda,UNRF II,Uganda,0,0,0,0
+148,Government of Uganda,UPA,Uganda,0,0,0,0
+706,Government of Uganda,UPDA,Uganda,0,0,0,0
+228,Government of Guatemala,URNG,Guatemala,1,1,1,0
+211,Government of Somalia,USC/SNA,Somalia,1,1,1,0
+210,Government of Somalia,USC/SSA,Somalia,1,1,1,0
+353,Government of Tajikistan,UTO,Tajikistan,0,0,0,0
+321,Government of Myanmar (Burma),UWSA,Myanmar (Burma),0,1,1,0
+368,Government of Russia (Soviet Union),Wahhabi movement of the Buinaksk district (Republic of Dagestan),Russia (Soviet Union),0,0,0,0
+152,Government of Uganda,WNBF,Uganda,0,1,1,0
+714,Government of Sierra Leone,WSB,Sierra Leone,1,0,0,0
+522,Government of Ethiopia,WSLF,Ethiopia,1,1,1,0
+564,Government of South Yemen,Yemenite Socialist Party - Abdul Fattah Ismail,South Yemen,0,0,0,0
+560,Government of Zimbabwe (Rhodesia),ZANU,Zimbabwe (Rhodesia),1,1,1,1
+565,Government of Zimbabwe (Rhodesia),ZAPU,Zimbabwe (Rhodesia),1,1,1,1
+14249,Government of Libya,Zintan Brigades,Libya,0,0,0,0
+289,Government of Georgia,Zviadists,Georgia,0,0,0,0
