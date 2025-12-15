@@ -1,0 +1,8 @@
+# real data (do not upload)
+data/01-raw_data/**
+data/02-analysis_data/**
+
+# simulated data (keep)
+!data/03-simulated_data/
+!data/03-simulated_data/**
+
