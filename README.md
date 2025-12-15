@@ -10,8 +10,16 @@ To use this folder, click the green "Code" button, then "Download ZIP". Move the
 
 The repo is structured as:
 
-- `data/raw_data` contains the raw dataset as obtained from the project authors.  
-- `data/analysis_data` contains the cleaned dataset used in the analysis.  
-- `model` contains fitted models and model output.    
-- `paper` contains the Quarto document, bibliography file, and the compiled PDF of the paper.  
-- `scripts` contains the scripts used to import, clean, and analyze the data, and to fit the logistic regression model.
+data contains the data used in the project.
+- data/01-raw_data contains the original WAAR dataset.
+- data/02-analysis_data contains cleaned or intermediate datasets used in the analysis.
+- data/03-simulated_data contains simulated data used for demonstration and reproducibility.
+
+models contains fitted logistic regression models saved as RDS files.
+
+paper contains the Quarto document (.qmd), bibliography file, and the PDF of the paper.
+
+scripts contains the R scripts used to prepare data, fit models, and generate tables and figures.
+
+other contains notes or sketches and is not required to reproduce the main analysis.
+
