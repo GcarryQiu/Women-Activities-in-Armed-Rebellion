@@ -10,7 +10,7 @@ To use this folder, click the green "Code" button, then "Download ZIP". Move the
 
 The repo is structured as:
 
-- `data/raw_data` contains the original WAAR dataset as obtained from the project authors.  
+- `data/raw_data` contains the raw dataset as obtained from the project authors.  
 - `data/analysis_data` contains the cleaned dataset used in the analysis.  
 - `model` contains fitted models and model output.    
 - `paper` contains the Quarto document, bibliography file, and the compiled PDF of the paper.  
