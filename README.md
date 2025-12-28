@@ -10,16 +10,10 @@ To use this folder, click the green "Code" button, then "Download ZIP". Move the
 
 The repo is structured as:
 
-data contains the data used in the project.
-- data/01-raw_data contains the original WAAR dataset.
-- data/02-analysis_data contains cleaned or intermediate datasets used in the analysis.
-- data/03-simulated_data contains simulated data used for demonstration and reproducibility.
+- `data/01-raw_data` contains the raw WAAR dataset files (CSV) and the official codebook PDF.
+- `data/02-analysis_data` contains the cleaned/analysis-ready dataset used in the paper (if generated).
+- `paper` contains the files used to generate the paper, including the Quarto source, bibliography, and the rendered PDF.
+- `scripts` contains the R scripts used to download and clean data (and any other helper scripts used in the workflow).
+- `WomenActivitiesRebellion.Rproj` is the RStudio project file for convenience.
 
-models contains fitted logistic regression models saved as RDS files.
-
-paper contains the Quarto document (.qmd), bibliography file, and the PDF of the paper.
-
-scripts contains the R scripts used to prepare data, fit models, and generate tables and figures.
-
-other contains notes or sketches and is not required to reproduce the main analysis.
 
