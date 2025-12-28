@@ -21,12 +21,11 @@ bibliography: references.bib
 #| message: false
 
 library(tidyverse)
-library(palmerpenguins)
 ```
 
 # Introduction
 
-Women's participation in armed organizations takes many forms, ranging from frontline combat to political organization and logistical support. The "Women’s Activities in Armed Rebellion" dataset, covering over 370 insurgent organizations from 1946 to 2015, documents the range and manner of women's participation in these organizations. This paper focuses on a key variable of participation: whether women are involved in logistical work, such as transportation, supply, or other support activities. Furthermore, this paper examines whether women hold leadership positions within these organizations. The primary goal is to describe and model the relationship between women's leadership and women's logistical participation in those organizations. The dataset and coding rules are described in the WAAR project documentation and associated publication [@loken_matfess_2024_waar; @waar_codebook_v1], and the dataset is available online [@waar_dataset_web].
+Women's participation in armed organizations takes many forms, ranging from frontline combat to political organization and logistical support. The "Women’s Activities in Armed Rebellion" dataset, covering over 370 insurgent organizations from 1946 to 2015, documents the range and manner of women's participation in these organizations. This paper focuses on a key variable of participation: whether women are involved in logistical work, such as transportation, supply, or other support activities. Furthermore, this paper examines whether women hold leadership positions within these organizations. The primary goal is to describe and model the relationship between women's leadership and women's logistical participation in those organizations. The dataset and coding rules are described in the WAAR project documentation and associated publication [@loken_matfess_2024_waar], and the dataset is available online [@waar_dataset_web].
 
 Formally, let $Y_i$ be a binary indicator equal to 1 if women are recorded as participating in logistical roles in organization $i$, and 0 otherwise. Let $\text{lead}_i$ indicate whether women are recorded in leadership positions, $\text{wwing}_i$ indicate whether the organization has a women’s wing, and $\text{coalition}_i$ indicate whether it is part of a broader coalition or front. I estimate a logistic regression model in which $Y_i$ is the outcome, $\text{lead}_i$ is the main predictor, and $\text{wwing}_i$ and $\text{coalition}_i$ are controls. The primary estimand of interest is the conditional association between women’s leadership and women’s logistical participation, summarized by the coefficient on $\text{lead}_i$ and the change in the predicted probability of $Y_i = 1$ when $\text{lead}_i$ changes from 0 to 1, holding the other variables fixed.
 
@@ -46,7 +45,7 @@ We use the statistical programming language R to clean, summarise, and model our
 
 ## Measurement
 
-In the WAAR dataset, each row represents an armed organization. Coders read historical and qualitative data, then used a binary index to record whether women were present in specific roles and a simple 0-4 scale to record estimated proportions of participation. In this way, the complex narratives about women’s participation in armed group were transformed into a set of comparable variables that could be statistically analyzed. Details on the coding procedures and variable definitions are provided in the WAAR codebook [@waar_codebook_v1].
+In the WAAR dataset, each row represents an armed organization. Coders read historical and qualitative data, then used a binary index to record whether women were present in specific roles and a simple 0-4 scale to record estimated proportions of participation. In this way, the complex narratives about women’s participation in armed group were transformed into a set of comparable variables that could be statistically analyzed.
 
 
 ## Outcome variables
@@ -308,13 +307,15 @@ In conclusion, the results indicate a significant association between women's le
 
 The main result is that rebel organisations with women in leadership are much more likely to have women’s participation in logistical roles. In our data, logistical roles include support work such as transport and supply. This gap is large in statistics perspective and remains large in the logistic regression after controlling for the presence of a women’s wing and coalition membership.
 
-This pattern can be interpreted as a strong evidence that women’s leadership is associated with broader participation by women in organisational work beyond combat roles. The Logistical activitie are routine tasks that help armed groups operate. Therefore, a strong association between leadership and logistics suggests that organisations with women leaders are also organisations where women take on important support roles.
+This pattern can be interpreted as a strong evidence that women’s leadership is associated with broader participation by women in organisational work beyond combat roles. Logistical activities help armed groups daily operate. Therefore, a strong association between leadership and logistics suggests that organisations with women leaders are also organisations where women take on important support roles.
 
 The analysis is cross sectional and does not observe changes within the same organisation over time. As a result, the direction of the relationship cannot be established. Organisations that already involve women in multiple roles may also be more likely to place women in leadership. Nevertheless, the association is large and consistent with the idea that women’s leadership tends to coincide with greater participation by women in support roles.
 
+This finding is consistent with prior research emphasizing that women’s roles in rebel groups depend on organizational needs and opportunities, not only ideology or individual motivations. For example, existing studies discuss how group strategy and context shape women’s participation across roles, including non-combat work and support functions [@wood_thomas_2017_frontline; @henshaw_2016_whymenrebel; @ide_2024_supplydemand]. The WAAR project documentation highlights the diversity of women’s activities across organizations [@loken_matfess_2024_waar]. Building on this literature, our contribution is to focus specifically on logistical participation and show that it is strongly associated with women’s leadership even after controlling for women’s wings and coalition membership. Importantly, this should be interpreted as an association rather than a causal effect.
+
 ## Possible explanations for the connection between leadership and logistics
 
-Several explanations may account for the strong association between women’s leadership and women’s logistical participation. First, organisations that have women in leadership roles may also be more open to including women in a wider range of responsibilities. Under this perpespective, leadership and logistical participation reflect a broader organisational approach to gender roles rather than a narrow change in one position.
+Several explanations may account for the strong association between women’s leadership and women’s logistical participation. First, organisations that have women in leadership roles may also be more open to including women in a wider range of responsibilities. From this perspective, leadership and logistical participation reflect a broader organisational approach to gender roles rather than a narrow change in one position.
 
 Second, the association may reflect differences in organisational structure and size. Groups with more developed often require more coordination work, including supply and transport. These groups may also have clearer leadership structures, which could make women’s leadership more likely to appear and be recorded. In this case, women’s leadership and women’s logistical participation may both be linked to how organised the group is.
 
@@ -329,7 +330,7 @@ At the same time, some alternative interpretations remain possible. The model in
 
 ## Limitations and future research
 
-This study has several limitations. First, the WAAR dataset record whether roles are documented in available sources. Hence, the outcome captures documented participation rather than a complete count of participation. Reporting quality may differ across conflicts, regions, and time periods, which can significantly affect what coders are able to code. In this setting, some organisations may have women participating in logistics but leave rarely public record, while other organisations may be more visible and accesable in the historical record.
+This study has several limitations. First, the WAAR dataset record whether roles are documented in available sources. Hence, the outcome captures documented participation rather than a complete count of participation. Reporting quality may differ across conflicts, regions, and time periods, which can significantly affect what coders are able to code. In this setting, some organisations may have women participating in logistics but leave rarely public record, while other organisations may be more visible and accessible in the historical record.
 
 Second, the analysis is cross sectional at the organisational level and does not follow organisations over time. This limits us to observe the change of the dataset over time. For example, the current model cannot distinguish whether women enter leadership first and then expand into logistics, or whether organisations that already rely on women in logistics later promote women into leadership roles. Third, the model includes only a small set of covariates. Other organisational characteristics may influence both women’s leadership and women’s logistical participation significantly, including ideology, organisational capacity, recruitment strategies, geographic position, or the type of conflict. If such factors are correlated with both leadership and logistics, the estimated relationship for lead may partly reflect these broader differences. Other work suggests that women’s non-combat participation can reflect multiple organisational incentives and constraints, not just leadership structure [@ide_2024_supplydemand].
 
@@ -338,26 +339,16 @@ Future research can address these issues in several ways. First step is to expan
 
 If external data can be linked to the organisations, a further extension is to include measures of organisational size, conflict intensity, or ideology. Finally, future analysis could move beyond a single binary outcome by using the prevalence measures in WAAR to study not only whether women participate, but also how common participation is when it occurs. In conclusion, these steps would help clarify whether the observed leadership and logistics link holds under more controls and whether it varies in different settings.
 
-\newpage
-
-\appendix
-
-# Appendix {#sec-appendix}
-
-## Additional data details
-
-### Sample construction and missingness
 ```{r}
-#| label: app-sample-missingness
-#| echo: true
+#| include: false
 #| message: false
 #| warning: false
 
 library(tidyverse)
 library(readr)
 library(here)
+library(broom)
 
-# Load WAAR data (use the same path convention as the main text)
 waar_data <- read_csv(
   here::here("data", "01-raw_data", "WAAR+Project+Dataset+v1.0.csv"),
   show_col_types = FALSE
@@ -365,15 +356,11 @@ waar_data <- read_csv(
 
 vars <- c("noncombat_logistics", "lead", "wwing", "coalition")
 
-# 1) Missingness (NA counts) in the raw data
 miss_tbl <- waar_data |>
   select(all_of(vars)) |>
   summarise(across(everything(), ~sum(is.na(.)))) |>
   pivot_longer(everything(), names_to = "variable", values_to = "na_count")
 
-miss_tbl
-
-# 2) Construct analysis sample (exactly match main-text filtering rule)
 df_cc <- waar_data |>
   select(all_of(vars)) |>
   mutate(across(everything(), as.numeric)) |>
@@ -384,9 +371,6 @@ df_cc <- waar_data |>
     coalition %in% c(0, 1)
   )
 
-cat("N (complete cases used) =", nrow(df_cc), "\n")
-
-# 3) Distribution of each variable in the analysis sample
 dist_tbl <- df_cc |>
   pivot_longer(cols = all_of(vars), names_to = "variable", values_to = "value") |>
   count(variable, value, name = "n") |>
@@ -394,31 +378,13 @@ dist_tbl <- df_cc |>
   mutate(prop = n / sum(n)) |>
   ungroup()
 
-dist_tbl
-```
-
-## Model details {#sec-model-details}
-
-### Alternative specifications (robustness)
-Table 4 compares a lead only model with the main specification that adds controls.
-```{r}
-#| label: app-robustness
-#| echo: false
-#| message: false
-#| warning: false
-#| tbl-cap: "Robustness to alternative model specifications (odds ratios)."
-
-library(broom)
-
-# Model A: lead only
 m0 <- glm(
   noncombat_logistics ~ lead,
   data = df_cc,
   family = binomial(link = "logit")
 )
 
-# Model B: main model (with controls)
-m1 <- glm(
+m1_app <- glm(
   noncombat_logistics ~ lead + wwing + coalition,
   data = df_cc,
   family = binomial(link = "logit")
@@ -426,7 +392,7 @@ m1 <- glm(
 
 rob_tbl <- bind_rows(
   tidy(m0) |> mutate(model = "Model A: lead only"),
-  tidy(m1) |> mutate(model = "Model B: + wwing + coalition")
+  tidy(m1_app) |> mutate(model = "Model B: + wwing + coalition")
 ) |>
   filter(term != "(Intercept)") |>
   mutate(
@@ -436,19 +402,6 @@ rob_tbl <- bind_rows(
     p.value = format.pval(p.value, digits = 3, eps = 1e-3)
   ) |>
   select(model, term, OR, CI_low, CI_high, p.value)
-
-knitr::kable(rob_tbl, digits = 3)
-```  
-
-### Predicted probabilities (additional profiles)
-```{r}
-#| label: app-pred-profiles
-#| echo: false
-#| message: false
-#| warning: false
-#| tbl-cap: "Predicted probabilities under common organisational profiles (from the main model)."
-
-# Assumes `df_cc` and `m1` already exist from earlier appendix chunks.
 
 mean_wwing <- mean(df_cc$wwing)
 mean_coal <- mean(df_cc$coalition)
@@ -465,18 +418,76 @@ profiles <- tibble(
 
 pred_tbl <- profiles |>
   mutate(
-    p_lead0 = predict(m1, newdata = tibble(lead = 0, wwing = wwing, coalition = coalition),
+    p_lead0 = predict(m1_app, newdata = tibble(lead = 0, wwing = wwing, coalition = coalition),
                       type = "response"),
-    p_lead1 = predict(m1, newdata = tibble(lead = 1, wwing = wwing, coalition = coalition),
+    p_lead1 = predict(m1_app, newdata = tibble(lead = 1, wwing = wwing, coalition = coalition),
                       type = "response"),
     diff = p_lead1 - p_lead0
   ) |>
   mutate(across(c(p_lead0, p_lead1, diff), ~round(.x, 3))) |>
   select(profile, p_lead0, p_lead1, diff)
-
-knitr::kable(pred_tbl, digits = 3)
 ```
 
 \newpage
+
+\appendix
+
+# Appendix {#sec-appendix}
+
+This appendix provides additional descriptive information about missingness and the analysis sample, along with two supplementary model summaries.
+
+## Additional data details
+
+@tbl-missingness reports the number of missing values for the variables used in the analysis, based on the raw WAAR dataset. The main model uses complete cases for these variables.
+
+```{r}
+#| label: tbl-missingness
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+#| tbl-cap: "Missingness in key variables (raw WAAR dataset)."
+knitr::kable(miss_tbl, digits = 0)
+```
+
+@tbl-analysissample summarizes the distribution of each variable in the complete-case sample (N = `r nrow(df_cc)`).
+
+```{r}
+#| label: tbl-analysissample
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+#| tbl-cap: "Distributions in the complete-case analysis sample."
+dist_tbl |>
+  mutate(prop = round(prop, 3)) |>
+  knitr::kable()
+```
+
+## Model details {#sec-model-details}
+
+@tbl-robustness compares the lead-only model to the main specification with controls. The estimated association for lead remains large across specifications.
+
+```{r}
+#| label: tbl-robustness
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+#| tbl-cap: "Robustness to alternative model specifications (odds ratios)."
+knitr::kable(rob_tbl, digits = 3)
+```
+
+@tbl-predprofiles reports predicted probabilities under common organisational profiles. For each profile, the difference shows the change in the predicted probability when toggling lead from 0 to 1.
+
+```{r}
+#| label: tbl-predprofiles
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+#| tbl-cap: "Predicted probabilities under common organisational profiles (main model)."
+knitr::kable(pred_tbl, digits = 3)
+```
 
 # References
